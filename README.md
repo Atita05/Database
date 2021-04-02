@@ -1,5 +1,6 @@
 
 # Database
+#small project
 Instructions
 Below is given an example design for a supermarket chain database design. For reference, both an ER-diagram and relational model description are included. Your task is to write SQL instructions to (1) create a database implementing such a design, (2) populating the database with data, and (3) creating SQL statements according to a list of queries.
 
